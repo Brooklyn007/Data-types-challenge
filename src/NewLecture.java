@@ -6,8 +6,8 @@ public class NewLecture {
             int num = 55 ;
             boolean anwser =  true;
             final double totalAmount = 3.5D;
-           final int noOfX;
-        System.out.println(noOfX);
+//           final int noOfX;
+//        System.out.println(noOfX);
 
         System.out.println(newString);
         System.out.println(anwser);
